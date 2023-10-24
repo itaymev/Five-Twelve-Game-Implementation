@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="156 160.5 400.5 192.5" width="400.5" height="192.5">
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 9 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="-615.3846" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-style="italic" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-HeavyOblique"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -7 18 14" markerWidth="18" markerHeight="14" color="black">
+      <g>
+        <path d="M 16 0 L 0 -6 L 0 6 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.12.1 
+    <dc:date>2020-01-12 20:21:52 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Class with Attributes</title>
+        <g id="Graphic_4">
+          <title>Attributes</title>
+          <rect x="236.5" y="187.5" width="130" height="24" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_3">
+          <title>Class Name</title>
+          <rect x="236.5" y="161.5" width="130" height="26" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(242.5 165.5)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-style="italic" font-weight="800" fill="#515556" x="16.0285" y="13">GameElement</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5">
+        <title>Class with Attributes</title>
+        <g id="Graphic_7">
+          <title>Attributes</title>
+          <rect x="425.5" y="187.5" width="130" height="24" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_6">
+          <title>Class Name</title>
+          <rect x="425.5" y="161.5" width="130" height="26" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(431.5 165.5)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-style="italic" font-weight="800" fill="#515556" x="23.731" y="13">GameEvent</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_8">
+        <title>Class with Attributes</title>
+        <g id="Graphic_10">
+          <title>Attributes</title>
+          <rect x="157" y="328" width="130" height="24" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_9">
+          <title>Class Name</title>
+          <rect x="157" y="302" width="130" height="26" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(163 306)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="40.826" y="13">Board</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_11">
+        <title>Class with Attributes</title>
+        <g id="Graphic_13">
+          <title>Attributes</title>
+          <rect x="352" y="328" width="130" height="24" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_12">
+          <title>Class Name</title>
+          <rect x="352" y="302" width="130" height="26" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(358 306)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="48.158" y="13">Tile</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_14">
+        <path d="M 222 301 L 222 256.75 L 301.5 256.75 L 301.5 230.4" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <path d="M 417 301 L 417 256.75 L 300.22266 256.75 L 300.22266 229.4" marker-end="url(#Arrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="288" y1="315" x2="351" y2="315" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(336.61194 298.664)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7132073e-19" y="15">*</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
